@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iTunesArtistSearch</string>
+    <string name="loading">Loading</string>
+    <string name="no_results">No results found</string>
+    <string name="search_term_hint">Enter Search Term</string>
+    <string name="search">Search</string>
+    <string name="search_term_blank">Please enter a valid search term</string>
+    <string name="retry_error">Something is not working, Please retry later</string>
+</resources>
